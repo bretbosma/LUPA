@@ -1,5 +1,29 @@
 ---
 title: LUPA
+subtitle: Laboratory Upgrade Point Absorber
+
+about:
+    id: hero-heading
+    template: trestles
+    image: LUPAinFlume.png
+    image-alt: Photo of LUPA
+    links:
+        - text: PMEC
+          href: https://pmec.us/
+        - text: OSU
+          href: https://oregonstate.edu/
+        - text: HWRL
+          href: https://engineering.oregonstate.edu/research/wave-lab
+
 ---
 
-Laboratory Upgrade Point Absorber
+:::{#hero-heading}
+
+## Quick Links:
+[PRIMRE Signature Project](https://openei.org/wiki/PRIMRE/Signature_Projects/LUPA)
+
+[CAD Models](https://zenodo.org/records/8156350)
+
+[Development Code](https://github.com/PMEC-OSU/LUPA)
+
+[WEC-Sim Models](https://github.com/PMEC-OSU/LUPA_WEC-Sim)
